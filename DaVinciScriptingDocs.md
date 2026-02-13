@@ -2,7 +2,7 @@
 
 **Last Updated:** October 7, 2025
 
-***I just generated this lil documentation based off of the .txt file that acts as the only documentation for DaVinci Resolve's scripting stuff that I can find available.
+*I just generated this lil documentation based off of the .txt file that acts as the only documentation for DaVinci Resolve's scripting stuff that I can find available.*
 
 ---
 
